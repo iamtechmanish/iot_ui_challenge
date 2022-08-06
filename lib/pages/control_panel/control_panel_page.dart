@@ -1,7 +1,7 @@
 import 'package:animated_background/animated_background.dart';
 import 'package:flutter/material.dart';
-import 'package:iot_ui_challenge/pages/control_panel/widgets/option_widget.dart';
 import 'package:iot_ui_challenge/pages/control_panel/options_enum.dart';
+import 'package:iot_ui_challenge/pages/control_panel/widgets/option_widget.dart';
 import 'package:iot_ui_challenge/pages/control_panel/widgets/power_widget.dart';
 import 'package:iot_ui_challenge/pages/control_panel/widgets/slider/slider_widget.dart';
 import 'package:iot_ui_challenge/pages/control_panel/widgets/speed_widget.dart';
