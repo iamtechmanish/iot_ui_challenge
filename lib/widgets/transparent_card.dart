@@ -10,10 +10,10 @@ class TransparentCard extends StatelessWidget {
     return Container(
       height: 100,
       decoration: BoxDecoration(
-        borderRadius: const BorderRadius.all(Radius.circular(20.0)),
+        borderRadius: const BorderRadius.all(Radius.circular(15.0)),
         color: Colors.black.withOpacity(0.2),
       ),
-      child: Padding(padding: const EdgeInsets.all(10.0), child: child),
+      child: Padding(padding: const EdgeInsets.all(6.0), child: child),
     );
   }
 }
